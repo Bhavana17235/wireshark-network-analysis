@@ -1,7 +1,7 @@
 # wireshark-network-analysis
 Task 5 - Network Traffic Analysis using Wireshark
 
-Network Traffic Analysis باستخدام Wireshark
+Network Traffic Analysis 
 
 Task 5: Capture and Analyze Network Traffic Using Wireshark
 
